@@ -5,4 +5,4 @@ I used Python 3.7 to code these algorithms.
 
  **Folder** | **Description** |
 | ------------- | ------------- |
-| [Machine Learning](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/tree/master/Machine_Learning) | Videos covering theoretical concepts and Python implementations of various machine learning algorithms expalined in the book [Patter Recognition and Machine Learning by Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/).  |
+| [Machine Learning](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/tree/master/Machine_Learning) | Implementations of various machine learning algorithms expalined in the book [Patter Recognition and Machine Learning by Christopher Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/).  |
