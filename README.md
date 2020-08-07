@@ -1,2 +1,2 @@
 # ML_DL_RL_Codes
-Codes of machine learning algroithms under different learning paradims including conventional algorithms, deep learning, and reinforcement learning are organized in separate sub-folders as described below.
+Machine learning, deep learning, reinforcement learning, statistics and optimization codes in Python. I have organized the codes in respective sub-folders as shown below.
