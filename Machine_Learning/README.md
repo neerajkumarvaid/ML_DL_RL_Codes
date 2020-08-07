@@ -5,7 +5,7 @@ Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](h
 
 | **S.No.**| **File name** | **Description** |
 | :-------------: | ------------- | ------------- |
-|1 | [Polynomial Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb) | Illustrates polynomial curve fitting in Python (Ref. Section 1.1 Bishop).|
+|1 | [Polynomial Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb) | Implementation of polynomial curve fitting (Ref. Section 1.1 Bishop).|
 
 #### *Section 1.1 Polynomial Curve Fitting* [Lecture](https://www.youtube.com/watch?v=4JQR9k2OXcw&list=PLL2uuAdM_Xwy2Z4M8wYzvf_89uGpQ_XU8&index=3) | [Coding Tutorial](https://www.youtube.com/watch?v=hPr-TufXbew&list=PLL2uuAdM_Xwy1WjZVi_tBzYoOJdOugeui) | [Code](https://github.com/ruchikaverma-iitg/Machine_Learning_Youtube_Channel/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb)
 
