@@ -2,9 +2,9 @@
 
 ## Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 
-| **S.No.**| **File name** | **Reference** | **Description** |
-| :-------------: |------------- | ------------- | ------------- |
-|1 | [Polynomial Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb) | Chapter 1 Section 1.1 | Implementation of polynomial curve fitting.|
+| **S.No.**| **File name** | **Chapter** |  **Section** | **Description** |
+| :-------------: |------------- | ------------- | ------------- | ------------- |
+|1 | [Polynomial Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Polynomial%20Curve%20Fitting.ipynb) | 1 |  1.1 | Implementation of polynomial curve fitting.|
 |2 | [Probability Distribution.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Probability%20Distribution.ipynb) | Chapter 1 Section 1.2.1-1.2.4 | Introduction to basic concepts of probability theory.|
 |3 | [Bayesian Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Bayesian%20Curve%20Fitting.ipynb) | Chapter 1 Section 1.2.5-1.2.6 | Implementation of Bayesian curve fitting using sklearn.|
 |4 | [ModelSelection_CurseOfDimensionality.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/ModelSelection_CurseOfDimensionality.ipynb) | Chapter 1, Section 1.3-1.4| Introduction to Model Selection and Curse of Dimensionality.|
