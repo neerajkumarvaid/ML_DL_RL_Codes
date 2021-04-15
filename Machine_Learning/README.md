@@ -1,6 +1,12 @@
 # This repository contains implementation of several conventional machine learning algorithms.
 
-## Reference: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
+## Murphy: [Probabilistic Machine Learning by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+
+| **S.No.**| **File name** | **Chapter** |  **Section** | **Description** |
+| :-------------: |------------- | ------------- | ------------- | ------------- |
+|1 | [Polynomial Curve Fitting.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Machine_Learning/Bishop/Polynomial%20Curve%20Fitting.ipynb) | 1 |  1.1 | Implementation of polynomial curve fitting.|
+
+## Bishop: [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.microsoft.com/en-us/research/people/cmbishop/prml-book/)
 
 | **S.No.**| **File name** | **Chapter** |  **Section** | **Description** |
 | :-------------: |------------- | ------------- | ------------- | ------------- |
