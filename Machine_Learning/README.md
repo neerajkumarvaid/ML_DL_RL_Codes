@@ -1,4 +1,4 @@
-# This repository contains implementation of several conventional machine learning algorithms.
+# This repository contains implementation of several machine learning algorithms.
 
 ## Murphy: [Probabilistic Machine Learning: An Introduction (2021 Book) by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 
