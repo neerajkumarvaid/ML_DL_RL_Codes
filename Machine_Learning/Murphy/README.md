@@ -1,4 +1,4 @@
-## Reference: [Probabilistic Machine Learning: And Introduction (2021 Book) by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+## Reference: [Probabilistic Machine Learning: An Introduction (2021 Book) by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 
 
 | **S.No.**| **File name** | **Chapter** |  **Section** | **Description** |
