@@ -1,5 +1,7 @@
 ## Reference: [Probabilistic Machine Learning: An Introduction (2021 Book) by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
 
+### Link to the Book's Github Repo: https://github.com/probml/pml-book/tree/main/pml1
+
 
 | **S.No.**| **File name** | **Chapter** |  **Section** | **Description** |
 | :-------------: |------------- | ------------- | ------------- | ------------- |
