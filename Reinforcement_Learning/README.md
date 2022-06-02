@@ -1,6 +1,6 @@
 # This repository contains implementation of several reinforcement learning algorithms.
 
-## Reference: [Artificial Intelligence: Reinforcement Learning in Python by Udemy]([https://probml.github.io/pml-book/book1.html](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/))
+## Reference: [Artificial Intelligence: Reinforcement Learning in Python by Udemy](https://www.udemy.com/course/artificial-intelligence-reinforcement-learning-in-python/))
 
 
 | **S.No.**| **File name** | **Section** |  **Video** | **Description** |
