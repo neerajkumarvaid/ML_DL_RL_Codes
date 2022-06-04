@@ -6,4 +6,5 @@
 | **S.No.**| **File name** | **Section** |  **Video** | **Description** |
 | :-------------: |------------- | ------------- | ------------- | ------------- |
 |1 | [Gradient_Descent_for_Linear_Regression.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Reinforcement_Learning/Gradient_Descent_for_Linear_Regression.ipynb) | 1 |  5 | Use gradient descent algorithm to solve a simple linear regression problem.|
-|1 | [Gradient_Descent_for_Linear_Regression.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Reinforcement_Learning/Epsilon_Greedy_Algorithm.ipynb) | 2 |  10 | Implemenation of the epsilon-greedy algorithm for solving a multi-arm bandit problem with exploration-exploitation dilemma.|
+|2 | [Gradient_Descent_for_Linear_Regression.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Reinforcement_Learning/Epsilon_Greedy_Algorithm.ipynb) | 2 |  10 | Implemenation of the epsilon-greedy algorithm for solving a multi-arm bandit problem with exploration-exploitation dilemma.|
+|3 | [Comparing_Epsilons.ipynb](https://github.com/neerajkumarvaid/ML_DL_RL_Codes/blob/master/Reinforcement_Learning/Comparing_Epsilons.ipynb) | 2 |  13 | Comparing convergence of mult-arm bandit problem with different epsilon values.|
