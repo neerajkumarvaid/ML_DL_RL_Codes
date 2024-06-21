@@ -1,0 +1,1 @@
+[Lightly SSL](https://docs.lightly.ai/self-supervised-learning/tutorials/structure_your_input.html)
